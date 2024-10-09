@@ -15,11 +15,14 @@ The project utilizes two datasets:
 2. **Disease precaution.csv**: Contains corresponding precautionary steps for each disease.
 
 ## Project Structure
+
+```plaintext
 healthcare-chatbot/
 ├── DiseaseAndSymptoms.csv        # Dataset containing diseases and their symptoms
 ├── DiseasePrecaution.csv         # Dataset containing diseases and their precautions
 ├── chatbot.py                    # Main Python file implementing the chatbot
 └── README.md                     # Project documentation
+
 
 
 
