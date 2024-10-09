@@ -16,8 +16,9 @@ The project utilizes two datasets:
 
 ## Project Structure
 healthcare-chatbot/
-├── DiseaseAndSymptoms.csv     # Dataset containing diseases and their symptoms
-├── Disease precaution.csv      # Dataset containing diseases and their precautions
-├── chatbot.py                  # Main Python file implementing the chatbot
-└── README.md                   # Project documentation
+├── DiseaseAndSymptoms.csv        # Dataset containing diseases and their symptoms
+├── DiseasePrecaution.csv         # Dataset containing diseases and their precautions
+├── chatbot.py                    # Main Python file implementing the chatbot
+└── README.md                     # Project documentation
+
 
