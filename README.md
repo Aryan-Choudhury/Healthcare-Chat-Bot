@@ -21,7 +21,11 @@ healthcare-chatbot/
 ├── DiseaseAndSymptoms.csv        # Dataset containing diseases and their symptoms
 ├── DiseasePrecaution.csv         # Dataset containing diseases and their precautions
 ├── HealthcareChatbot.py          # Main Python file implementing the chatbot
+├── images/                       # Directory containing images
+│   └── chatbot_screenshot.png    # Screenshot of the chatbot interface
 └── README.md                     # Project documentation
+
+
 
 
 
