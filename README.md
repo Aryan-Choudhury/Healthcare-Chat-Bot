@@ -1,4 +1,4 @@
-# Aryan Choudhury
+# Aryan Choudhury (21BCE0729)
 # Healthcare Chatbot
 
 This healthcare chatbot is designed to predict potential diseases based on user-input symptoms and provide corresponding precautions. It utilizes symptom matching and a decision tree model to identify diseases and offer precautions from pre-defined datasets.
